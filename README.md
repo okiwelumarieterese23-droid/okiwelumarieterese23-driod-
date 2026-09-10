@@ -1,48 +1,64 @@
-# Hi there, I'm Okiwelu Marie-Terese Chinwe.
+Hi, I'm Marie 👋🏽
 
-### AI/LLM Application Developer | Python | Building Intelligent Solutions | DataCamp Scholar
+Aspiring Data Engineer | Python • SQL • PostgreSQL • Data Pipelines • AI
+
+I'm building my skills in data engineering by learning through hands-on projects and progressively working with real-world data systems.
+
+My current focus is on developing strong foundations in:
+
+- 🐍 Python
+- 🗄️ SQL & PostgreSQL
+- 🔄 ETL / ELT
+- 🏗️ Data Pipelines
+- ☁️ Cloud & Data Infrastructure
+- 🤖 AI + Data Engineering
+
+🚀 What I'm Working On
+
+I'm currently following a structured data-engineering learning path and turning what I learn into practical projects.
+
+My goal is not just to learn tools, but to understand how data moves, is stored, transformed, processed, and delivered for real applications.
+
+📚 Current Learning
+
+- SQL & relational databases
+- PostgreSQL
+- Python for data engineering
+- Data extraction and transformation
+- ETL/ELT concepts
+- Data pipeline architecture
+
+🛠️ Tools & Technologies
+
+Languages
+
+- Python
+- SQL
+
+Databases
+
+- PostgreSQL
+
+Currently Exploring
+
+- Git & GitHub
+- Linux
+- Docker
+- Cloud platforms
+- Data warehouses
+- Apache Spark
+- AI/LLM applications
+
+📂 My Projects
+
+I use this GitHub to document my progress through real projects, experiments, and data-engineering systems.
+
+As I progress, my repositories will cover everything from database fundamentals and ETL pipelines to more advanced cloud and AI-powered data systems.
+
+🎯 Long-Term Goal
+
+To become an exceptionally skilled Data Engineer who understands data systems deeply and can build reliable, scalable pipelines that power analytics, applications, and AI.
 
 ---
 
-##  About Me
-
-Transitioning into AI/LLM development. Information Science and Media Studies student at Pan-Atlantic University (Class of 2029).
-Python • LLM • Prompt Engineering • Data Analytics • Figma
-Pursuing DataCamp AI Engineer cert (Aug 2026) + IBM Analytics program. Seeking an AI/LLM internship starting late 2026. 
-Designer + developer.
-
--  Based in **Nigeria**
--  Currently learning **Python Programming & AI Engineering**
--  Working towards **AI Engineer Certification**
--  Passionate about **Artificial Intelligence & App development**
--  Open to **collaborations, mentorship and opportunities**
-
----
-
-##  My AI/LLM Application Development Journey
-
-```
-Started Python Fundamentals    ✅
-Intermediate Python Programming 🔄 In Progress
-AI Engineering track    🔜 Coming Soon
-```
-
----
-
-##  Skills & Tools
-
-##  Prompt Engineering
-# LLM Integration
-## Python for AI
-## API Development
-# Retrieval-Augmented Generation(RAG)
-
----
-
-##  Connect With Me
-www.linkedin.com/in/marie-terese-okiwelu-90570b387
-
-
----
-
-> *"Success is not a destination, it's a journey — and I'm just getting started."* 
+📫 Let's connect and build with data.
